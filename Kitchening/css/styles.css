@@ -1,0 +1,25 @@
+body {
+    background-image: url("../background/grid.png");
+    background-repeat: repeat;
+}
+
+.logo{
+    max-width: 200px;
+    border-radius: 50%;
+    border: solid 5px grey;
+}
+
+.promo {
+    height: 100px;
+    right:0px;
+}
+
+.new{height: 90px;}
+
+.vermais {
+    color: white solid;
+    background-position: center;
+    opacity: 75%;
+    top: 100px;  
+    
+}
